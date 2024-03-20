@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0d1117;
+  color: #b6b6b6;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  min-width: 280px;
+}
+
+body::-webkit-scrollbar {
+  background-color: transparent;
+  width: 0;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #161b22;
+  border-radius: 9999px;
+}
+
+.maxWidth {
+  @apply max-w-[400px] md:max-w-[700px];
+}
+
+.btnStyle {
+  @apply w-8 h-8 p-2 rounded-full ease-linear cursor-pointer;
+}
+
+.profileImgStyle {
+  @apply w-8 h-8 rounded-full overflow-hidden cursor-pointer;
+}
+
+.userCardMd {
+  @apply md:flex-row md:items-center md:justify-between;
+}
+
+.userDetails::-webkit-scrollbar {
+  width: 0px;
+}
+
+@media screen and (min-width: 768px) {
+  body::-webkit-scrollbar {
+    width: 12px;
+  }
+}
