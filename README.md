@@ -22,3 +22,21 @@ Também foi feito um design mais trabalhado pelo Figma para dar uma _"beleza"_ a
 `https://source.unsplash.com/random?a=1`
 
 A aplicação é responsiva e foi feita utilizando o conceito de Mobile First. No quesito funcionalidades, apenas foi feito o consumo da _**API**_, tipagem dos dados e utilização das rotas com auxilio dos React Hook's.
+
+<table>
+  <tr>
+    <th><a href="https://github.com/renansouzasm" target="_blank">DEPLOY</a></th>
+  </tr>
+
+  <tr>
+    <td>
+      <img 
+        width="600px"
+        alt="preview"
+        src="https://github.com/renansouzasm/React-users/assets/101893896/7774fea5-7634-436b-b365-81b1642bf50d"
+      />
+    </td>
+  </tr>
+</table>
+
+
