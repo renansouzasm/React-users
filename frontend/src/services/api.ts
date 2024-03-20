@@ -2,7 +2,7 @@ export class API {
   baseUrl: string;
 
   constructor() {
-    this.baseUrl = import.meta.env.VITE_REACT_BASE_URL;
+    this.baseUrl = "https://react-users.onrender.com";
   }
 
   async get() {
