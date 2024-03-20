@@ -25,7 +25,7 @@ A aplicação é responsiva e foi feita utilizando o conceito de Mobile First. N
 
 <table>
   <tr>
-    <th><a href="https://github.com/renansouzasm" target="_blank">DEPLOY</a></th>
+    <th><a href="https://react-users-renansouzasm.vercel.app/" target="_blank">DEPLOY</a></th>
   </tr>
 
   <tr>
