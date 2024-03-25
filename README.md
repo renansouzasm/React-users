@@ -41,7 +41,7 @@ Exemplo: `this.baseUrl = "http://localhost:3000";`
 
 Lembre-se também de _"configurar"_ o **CORS** para permitir que uma URL específica tenha acesso as requisições feitas ao seu backend, no caso será a URL onde seu frontend estiver rodando.
 
-No arquivo `backend/prisma`, você também pode mudar o banco de dados que irá utilizar, assim como a URL para acessa-lo, ULR essa que também deverá estar presente no arquivo `.env`
+No arquivo `backend/prisma`, você também pode mudar o banco de dados que irá utilizar, assim como a URL para acessa-lo, URL essa que também deverá estar presente no arquivo `.env`
 
 ```
 DATABASE_URL = "mongodb://<user>:<password>@databasecluster..."
@@ -58,8 +58,8 @@ _id: ObjectId('1234')
 fullName: "Elizabeth Olsen"
 email: "elizabeth_olsen@email.com"
 status: true
-created_at: 2024-03-10T19:22:37.933+00:00
-updated_at: 2024-03-10T19:22:37.933+00:00
+created_at: 2024-03-10
+updated_at: 2024-03-10
 ```
 
 <table>
