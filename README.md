@@ -39,4 +39,15 @@ A aplicação é responsiva e foi feita utilizando o conceito de Mobile First. N
   </tr>
 </table>
 
+<!--
+```javascript
+_id: ObjectId('1234')
+fullName: "Elizabeth Olsen"
+email: "elizabeth_olsen@email.com"
+status: true
+created_at: 2024-03-18T19:22:37.933+00:00
+updated_at: 2024-03-18T19:22:37.933+00:00
+```
+-->
+
 
