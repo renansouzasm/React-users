@@ -2,6 +2,34 @@
 
 > Este projeto é uma aplicação web que utiliza React, TypeScript, Tailwind CSS e uma API REST. Ele apresenta uma lista simulada de usuários, permitindo operações de leitura e escrita de forma dinâmica e responsiva.
 
+<table>
+  <tr>
+    <th><a href="https://react-users-renansouzasm.vercel.app/" target="_blank">DEPLOY</a></th>
+  </tr>
+
+  <tr>
+    <td>
+      <img 
+        width="600px"
+        alt="preview"
+        src="https://github.com/renansouzasm/React-users/assets/101893896/7774fea5-7634-436b-b365-81b1642bf50d"
+      />
+    </td>
+  </tr>
+</table>
+
+### Tecnologias
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ### Objetivo
 
 O objetivo desse projeto é fazer uma lista de usuários, simples, mas também criar uma API REST usando o Prisma ORM e Fastify para simplificar o acesso e a manipulação do banco de dados, trabalhando tanto com frontend quanto backend.
@@ -62,18 +90,6 @@ created_at: 2024-03-10
 updated_at: 2024-03-10
 ```
 
-<table>
-  <tr>
-    <th><a href="https://react-users-renansouzasm.vercel.app/" target="_blank">DEPLOY</a></th>
-  </tr>
+### 📃 LICENSE
 
-  <tr>
-    <td>
-      <img 
-        width="600px"
-        alt="preview"
-        src="https://github.com/renansouzasm/React-users/assets/101893896/7774fea5-7634-436b-b365-81b1642bf50d"
-      />
-    </td>
-  </tr>
-</table>
+For more details [LICENSE](https://github.com/renansouzasm/React-users/blob/main/LICENSE)
